@@ -1,0 +1,42 @@
+{
+    "coord": {
+      "lon": -122.03,
+      "lat": 37.33
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 284.61,
+      "pressure": 1019,
+      "humidity": 89,
+      "temp_min": 284.15,
+      "temp_max": 284.85
+    },
+    "visibility": 12874,
+    "wind": {
+      "speed": 0.94,
+      "deg": 176.503
+    },
+    "clouds": {
+      "all": 75
+    },
+    "dt": 1545375360,
+    "sys": {
+      "type": 1,
+      "id": 5122,
+      "message": 0.0308,
+      "country": "US",
+      "sunrise": 1545405528,
+      "sunset": 1545440052
+    },
+    "id": 5341145,
+    "name": "Cupertino",
+    "cod": 200
+  }
